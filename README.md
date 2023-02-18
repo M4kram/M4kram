@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makram Abid</h1>
 
 <ul>
-	<li>🌱 I’m currently learning JavaScript</li>
+	<li>🌱 I’m currently learning React</li>
 	<li>💬 Ask me about Anything</li>
 	<li>😄 Pronouns: He/Him</li>
 </ul>
