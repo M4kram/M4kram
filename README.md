@@ -3,7 +3,6 @@
 <ul>
 	<li>🌱 I’m currently learning React</li>
 	<li>💬 Ask me about Anything</li>
-	<li>😄 Pronouns: He/Him</li>
 </ul>
 
 <h2>Connect with me:</h2>
